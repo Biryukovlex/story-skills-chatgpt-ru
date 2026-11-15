@@ -1,35 +1,7 @@
-> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+# Организация и фракция
 
-# Faction Template
+Цель; ценности; публичная позиция; скрытый интерес; ресурсы; способ пополнения; руководство; внутренние споры; союзники; соперники.
 
-Use this template when creating a faction file at `worldbuilding/factions/{faction-name-kebab}.md`.
+Определи, кто именно принимает решение и кто может его сорвать. Члены одной организации могут иметь разные интересы и предел лояльности.
 
-```yaml
----
-name: "{Faction Name}"
-type: {family|guild|government|military|religion|company|community|criminal|other}
-status: {active|hidden|declining|defeated|disbanded|unknown}
-members:
-  - {character-kebab}
-locations:
-  - {location-kebab}
-tags:
-  - {tag-1}
----
-```
-
-## Purpose
-
-What this faction wants and why it exists.
-
-## Power Base
-
-Resources, influence, territory, legitimacy, secrets, rituals, or leverage.
-
-## Members
-
-Important members and their roles.
-
-## Conflicts
-
-Internal divisions and external opposition.
+Проследи, как событие меняет влияние, состав и доступные действия. Абстрактная репутация не заменяет механизма власти.

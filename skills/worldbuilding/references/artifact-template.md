@@ -1,33 +1,7 @@
-> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+# Предмет и его состояние
 
-# Artifact Template
+Название; внешний вид; функция; ограничения; происхождение; владелец; местонахождение; состояние; кто знает о свойствах.
 
-Use this template when creating an artifact file at `worldbuilding/artifacts/{artifact-name-kebab}.md`.
+Значимый предмет требует цепочки владения: где получен, потерян, передан, повреждён или израсходован. Знание о предмете не равно физическому доступу.
 
-```yaml
----
-name: "{Artifact Name}"
-type: {object|weapon|document|technology|relic|symbol|resource|other}
-status: {active|lost|destroyed|hidden|transferred|unknown}
-owner: {character-or-faction-kebab}
-location: {location-kebab}
-tags:
-  - {tag-1}
----
-```
-
-## Description
-
-What the artifact looks like and how readers recognize it.
-
-## Function
-
-What it can do, what it cannot do, and what it costs.
-
-## History
-
-Origin, prior owners, and story-relevant events.
-
-## Current State
-
-Current owner, location, condition, and unresolved risks.
+Если предмет решает конфликт, проверь подготовку его свойств и цену использования. Не добавляй способность в момент развязки без прежнего основания.

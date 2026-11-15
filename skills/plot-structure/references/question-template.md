@@ -1,33 +1,7 @@
-> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+# Реестр открытых вопросов
 
-# Question Template
+Вопрос; место возникновения; сведения читателя; знания персонажей; возможные ответы; сцена раскрытия; что изменится после ответа.
 
-Use this template for open mystery or continuity-question files at `continuity/questions/{question-kebab}.md`.
+Отделяй загадку от непонятности изложения. Если читатель не понимает, кто действует, это может требовать ясной фразы, а не нового сюжетного секрета.
 
-```yaml
----
-title: "{Question}"
-status: {open|answered|resolved|abandoned|dropped}
-introduced: chapter-{NN}
-resolved: ""
-characters:
-  - {character-kebab}
----
-```
-
-Leave `resolved` empty while the question is `open`: set it, together with
-`status: answered` or `resolved`, only once the answer is on the page. Plan
-when it should land under "Resolution Plan". `introduced` may name a chapter
-that is not written yet.
-
-## Question
-
-What needs to be answered or protected for continuity.
-
-## Evidence
-
-Known clues, constraints, and contradictions.
-
-## Resolution Plan
-
-How and when the answer should land.
+Проверь, что каждое крупное раскрытие опирается на подготовку и влияет на дальнейший выбор. Не собирай все объяснения в финальную речь, если их последствия должны были работать раньше.

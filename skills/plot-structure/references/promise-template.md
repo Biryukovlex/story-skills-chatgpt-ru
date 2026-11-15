@@ -1,30 +1,7 @@
-> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+# Обещания и отдача
 
-# Promise Template
+Запись обещания: что заставляет читателя ждать развития; где это показано; кто об этом знает; как напоминание меняется; где и каким образом наступает отдача.
 
-Use this template for setup/payoff files at `continuity/promises/{promise-kebab}.md`.
+Различай намеченное автором, уже показанное читателю и завершённое. План в заметках не равен подготовке в тексте.
 
-```yaml
----
-title: "{Promise Or Setup}"
-status: {planned|planted|paid-off|abandoned|dropped}
-planted: chapter-{NN}
-payoff: chapter-{NN}
-arcs:
-  - {arc-kebab}
-characters:
-  - {character-kebab}
----
-```
-
-## Setup
-
-What the story promises the reader.
-
-## Payoff
-
-How the promise should be answered.
-
-## Tracking Notes
-
-Keep planted and payoff chapters current.
+Отдача может исполнить ожидание, переосмыслить его или осознанно отказать в нём. Необъяснимо забытая деталь отличается от намеренной незавершённости: во втором случае текст поддерживает смысл такого решения.

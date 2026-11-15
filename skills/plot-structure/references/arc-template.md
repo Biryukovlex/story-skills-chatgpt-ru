@@ -1,55 +1,7 @@
-> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+# Карточка сюжетной арки
 
-# Arc Template
+Герой или линия; исходное состояние; желание; противодействие; первая попытка; осложнения; решающий выбор; цена; новое состояние.
 
-Use this template when creating a new arc file at `plot/arcs/{arc-name-kebab}.md`.
+Укажи сцены, в которых меняются возможности героя. Проверяй, что середина не повторяет завязку, а финал вытекает из накопленных действий.
 
-```yaml
----
-name: "{Arc Name}"
-type: {main|subplot|character|thematic}
-status: {planned|in-progress|resolved}
-characters:
-  - {character-kebab}
-themes:
-  - {theme}
-acts:
-  - {act-1|act-2|act-3}
----
-```
-
-## Setup
-
-The initial state of affairs. What's normal before the arc begins. The inciting incident that sets this arc in motion.
-
-## Rising Action
-
-Key escalations, complications, and developments. List in order:
-
-1. {First escalation}
-2. {Second escalation}
-3. {Complication or reversal}
-
-## Climax
-
-The turning point of this arc. The moment of highest tension where the outcome is decided.
-
-## Resolution
-
-How the arc resolves. What changes as a result. How the world and characters are different.
-
-## Plot Points
-
-Ordered list of specific story events, linked to chapters:
-
-| # | Plot Point | Act | Chapter | Status | Notes |
-|---|------------|-----|---------|--------|-------|
-| 1 | | | | planned | |
-
-## Foreshadowing
-
-Track what's planted and where it pays off:
-
-| Planted | Payoff | Chapter Planted | Chapter Payoff | Status |
-|---------|--------|-----------------|----------------|--------|
-| | | | | {planned|planted|paid-off} |
+Для побочной арки запиши связь с основной: событие, тема, отношение или ресурс. Если связи нет, оцени художественную функцию линии до предложения сократить её.

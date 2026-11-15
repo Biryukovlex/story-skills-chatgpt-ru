@@ -1,4 +1,4 @@
 interface:
   display_name: "Персонажи"
   short_description: "Разработка персонажей, отношений и их характеров"
-  default_prompt: "Используй $character-management, чтобы помочь с задачей «создать персонажа». Ответь по-русски."
+  default_prompt: "Используй $character-management: разработай персонажа и его отношения, покажи характер через решения и речь."
