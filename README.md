@@ -23,6 +23,35 @@
 Правила русского языка продублированы внутри каждого навыка, чтобы сохраняться
 при отдельном копировании. Другие перекрёстные справочники доступны в полной коллекции.
 
+## Навыки
+
+| Навык | Название | Описание |
+| --- | --- | --- |
+| [`adaptation`](skills/adaptation/SKILL.md) | Адаптация истории | Адаптация истории для экрана, аудио и других форм. |
+| [`chapter-writing`](skills/chapter-writing/SKILL.md) | Написание глав | Написание глав по плану с сохранением канона. |
+| [`character-management`](skills/character-management/SKILL.md) | Персонажи | Разработка персонажей, отношений и их характеров. |
+| [`discovery-drafting`](skills/discovery-drafting/SKILL.md) | Письмо без плана | Развитие истории через свободное письмо и сверку. |
+| [`editorial-review`](skills/editorial-review/SKILL.md) | Редакторский разбор | Редакторская оценка рукописи и план доработки. |
+| [`feedback-triage`](skills/feedback-triage/SKILL.md) | Разбор отзывов | Сопоставление отзывов и выбор правок для рукописи. |
+| [`genre-craft`](skills/genre-craft/SKILL.md) | Жанровое мастерство | Работа с жанровыми ожиданиями и приёмами истории. |
+| [`interactive-fiction`](skills/interactive-fiction/SKILL.md) | Интерактивная история | Ветвящиеся сюжеты, выборы и проверка путей читателя. |
+| [`line-editing`](skills/line-editing/SKILL.md) | Редактура текста | Правка предложений, пунктуации и ритма русской прозы. |
+| [`plot-structure`](skills/plot-structure/SKILL.md) | Структура сюжета | Построение сюжетных арок, поворотов и развязок. |
+| [`premise-workshop`](skills/premise-workshop/SKILL.md) | Мастерская замысла | Поиск и проверка идеи, конфликта и логлайна истории. |
+| [`publishing`](skills/publishing/SKILL.md) | Подготовка к публикации | Подготовка книги к публикации и продвижению. |
+| [`reader-panel`](skills/reader-panel/SKILL.md) | Читательская панель | Разбор рукописи с нескольких читательских позиций. |
+| [`research`](skills/research/SKILL.md) | Исследование для книги | Проверка фактов и сбор материала для художественного текста. |
+| [`revision-continuity`](skills/revision-continuity/SKILL.md) | Переработка и канон | Переработка рукописи и поиск сюжетных противоречий. |
+| [`scene-craft`](skills/scene-craft/SKILL.md) | Мастерство сцены | Работа с конфликтом, диалогом и точкой зрения в сцене. |
+| [`series-continuity`](skills/series-continuity/SKILL.md) | Непрерывность серии | Согласование канона между книгами одной серии. |
+| [`story-init`](skills/story-init/SKILL.md) | Новая история | Создание проекта книги и начальной библии истории. |
+| [`story-maintenance`](skills/story-maintenance/SKILL.md) | Порядок в проекте | Сверка ссылок, реестров и состояния рукописи. |
+| [`submission`](skills/submission/SKILL.md) | Подача рукописи | Подготовка синопсиса, заявки и подачи рукописи. |
+| [`theme-craft`](skills/theme-craft/SKILL.md) | Тема истории | Развитие темы через конфликт, выборы героев и мотивы. |
+| [`verse-craft`](skills/verse-craft/SKILL.md) | Стихотворное мастерство | Русские стихи, рифма, размер и разбор ритма строк. |
+| [`voice-style`](skills/voice-style/SKILL.md) | Авторский голос | Сохранение авторского голоса и единого стиля рукописи. |
+| [`worldbuilding`](skills/worldbuilding/SKILL.md) | Построение мира | Разработка мира, мест, культур, систем и ограничений. |
+
 ## Использование
 
 В среде ChatGPT с поддержкой устанавливаемых навыков импортируйте нужную папку
