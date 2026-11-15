@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Editing Commands
 
 How the commands that create, rename, move, split, merge, and remove entity files, the `impact` that tests such a change first, and the `import` that builds a project from a manuscript, behave, and what to check after them. `SKILL.md` says when to run each command; read the matching section here before running one or explaining its result. Run any of them with `--dry-run` first when the change touches many files. `docs/cli-reference.md` lists every flag.

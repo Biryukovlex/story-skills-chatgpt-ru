@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Scene Cards
 
 A scene card is the planning unit between a plot beat and a chapter draft:

@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Comedy Craft
 
 Comedy promises the reader laughter that comes out of the story: out of

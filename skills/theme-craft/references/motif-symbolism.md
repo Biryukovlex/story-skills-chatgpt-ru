@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Motif and Symbolism
 
 A motif is a recurring concrete element — an object, image, phrase, or action —

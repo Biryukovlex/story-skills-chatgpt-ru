@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Verse Forms
 
 Each form lists its rules, a short original example, and the faults to

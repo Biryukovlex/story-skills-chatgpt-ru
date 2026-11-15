@@ -1,0 +1,4 @@
+interface:
+  display_name: "Написание глав"
+  short_description: "Написание глав по плану с сохранением канона"
+  default_prompt: "Используй $chapter-writing, чтобы помочь с задачей «написать главу». Ответь по-русски."

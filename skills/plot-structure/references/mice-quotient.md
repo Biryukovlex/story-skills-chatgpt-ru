@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # MICE Quotient
 
 A threading tool from Orson Scott Card's widely taught craft framework: every story thread is one of four types, and each type has its own start/end rule. Use it to braid subplots and to diagnose why a thread feels unresolved.

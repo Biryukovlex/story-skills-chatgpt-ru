@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Scene Sequel Mechanics
 
 Scene/Sequel is Dwight Swain's scene-unit framework from *Techniques of the

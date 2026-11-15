@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Arc Template
 
 Use this template when creating a new arc file at `plot/arcs/{arc-name-kebab}.md`.

@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Prose Checks
 
 `story prose .` counts; it never judges. Each check below says what is
@@ -21,7 +23,7 @@ outline divider.
 
 ## Other languages
 
-Read `language` in `story.md` (missing means `en`). The word lists come
+Read `language` in `story.md` (missing follows the Russian-language policy in SKILL.md). The word lists come
 from a language pack: English (`en`), Spanish (`es`), French (`fr`), and
 German (`de`) have them, and a regional tag (`es-MX`, `fr-CA`, `de-CH`)
 uses its language's. Spanish counts *-mente* adverbs and French *-ment*

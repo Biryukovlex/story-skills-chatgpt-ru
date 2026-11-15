@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Mystery: Fair Play and the Clue Ledger
 
 The fair-play doctrine is the genre's contract with the reader: the reader

@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Story Conventions
 
 These conventions apply across all story skills. Every `SKILL.md` links here and repeats a one-line summary, so a skill installed on its own without `story-maintenance` still has the essentials. `docs/concepts.md` explains them for users, and `docs/project-format.md` is the full schema reference.
@@ -54,4 +56,4 @@ A promise or clue moves from `planned` to `planted` (with `planted: chapter-{NN}
   - POSIX shells (bash, zsh, sh, Git Bash): end the quote, add an escaped quote, and reopen it, `'\''` (`story add character 'Mara O'\''Neill'`).
   - PowerShell: double it (`story add character 'Mara O''Neill'`). The POSIX form is a syntax error there, and a value with an unescaped `'` ends the string early, so PowerShell would run the rest as a command.
   - cmd.exe: single quotes do not group words, and `&`, `|`, and `^` act even inside a value, so do not run a command with user text there. Use PowerShell or a POSIX shell.
-- **CLI helpers stay external** - the only JavaScript helper agents should run is the installed or bundled Story CLI (`story`, or `story-maintenance/scripts/story.js` or a Story Skills checkout's `bin/story.js` run with Node from the folder `story` would run in) for deterministic maintenance. Do not copy it into the user's story project, and remove any unavoidable scratch helper before finishing.
+- **CLI helpers stay external** - the only JavaScript helper agents should run is the separately installed Story CLI (`story`, installed independently of this repository) for deterministic maintenance. Do not copy it into the user's story project, and remove any unavoidable scratch helper before finishing.

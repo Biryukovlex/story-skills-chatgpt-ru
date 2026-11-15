@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Writing Guidelines
 
 Guidelines for writing chapter prose. Adapt to the story's genre, tone, and POV as defined in `story.md`.

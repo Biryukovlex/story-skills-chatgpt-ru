@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Picture Book
 
 A picture book tells a story in words and pictures together, usually in 32
@@ -8,7 +10,7 @@ publisher chooses the illustrator; an author-only manuscript goes out as
 text with sparse art notes. Self-published authors commission art and
 need the full spread briefs.
 
-[`examples/bo-and-the-missing-moon`](../../../examples/bo-and-the-missing-moon/)
+[`examples/bo-and-the-missing-moon`](https://github.com/danjdewhurst/story-skills/tree/33085ccc3ceb94a6ff9362cf499091123cdfb30d/examples/bo-and-the-missing-moon/)
 is a 14-spread picture book set up this way, with its pagination plan in
 `adaptations/picture-book/pagination.md`.
 

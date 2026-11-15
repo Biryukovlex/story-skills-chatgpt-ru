@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Supporting Characters
 
 Brief guidance for roles smaller than deuteragonist. Major supporting characters still get full files from `references/character-template.md`. Minor ones can be a paragraph in `story.md` `## Notes`, or inside the Relationship Map or Family Trees sections of `characters/_index.md`. `story reindex` keeps any other `## ` section you add there too, moved after the generated sections, but the Notes in `story.md` are the easier place to find them.

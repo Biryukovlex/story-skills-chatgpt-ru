@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # MG and YA Craft
 
 Middle Grade (roughly ages 8–12) and Young Adult (roughly 12–18) are defined

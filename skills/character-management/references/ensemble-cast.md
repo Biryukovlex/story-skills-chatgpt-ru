@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Ensemble Cast
 
 Guidance for managing multiple significant characters — ensemble stories, large casts, multi-POV novels. Each member still gets a full character file; this reference covers how the cast works as a unit.

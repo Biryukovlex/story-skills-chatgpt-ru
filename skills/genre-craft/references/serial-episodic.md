@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Serial / Episodic Structure
 
 Serial fiction (web serials, episodic novels, seasonal releases) needs
@@ -5,7 +7,7 @@ structure at **two layers**: the within-installment layer this reference
 covers, and the book/season layer the `series-continuity` skill handles
 (one project per book, canon carried across). Do not confuse them.
 
-[`examples/the-left-luggage-office`](../../../examples/the-left-luggage-office/)
+[`examples/the-left-luggage-office`](https://github.com/danjdewhurst/story-skills/tree/33085ccc3ceb94a6ff9362cf499091123cdfb30d/examples/the-left-luggage-office/)
 is the first three episodes of a serial with `season-goal`,
 `episode-question`, per-episode `target-words`, a `hook` on each, and a
 weekly release schedule (`release-every` and `release-start`).

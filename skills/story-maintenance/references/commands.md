@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Command Catalogue
 
 Example command lines for every `story` command, for when you need the exact form of one. `SKILL.md` says when to run each command, and the other references hold their rules. `story --help` lists every command and `story <command> --help` its flags, and `docs/cli-reference.md` documents every flag.

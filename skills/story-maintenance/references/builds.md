@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Builds
 
 What each `story build` format writes, and the flags and `story.md` fields it reads. `SKILL.md` says when to build; read the matching section here before running a format or explaining its output. `docs/manuscripts.md` explains the same builds for users, and `docs/cli-reference.md` lists every flag.

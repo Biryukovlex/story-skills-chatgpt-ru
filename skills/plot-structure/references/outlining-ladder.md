@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Outlining Ladder
 
 Structure planning in rungs. Climb as far as the story needs — each rung has an exit criterion, so discovery writers can stop early and full planners can go all the way. For the discovery side of this workflow, see the `discovery-drafting` skill.

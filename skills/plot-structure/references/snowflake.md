@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Snowflake Method
 
 Randy Ingermanson's widely taught top-down design method: start from one sentence and grow it in ten steps, alternating between plot and cast, until the outline is detailed enough to draft from. Each step expands the one before, so a problem found late sends you back to the smallest artifact that contains it. It is a design process, not a beat sheet: pair it with a structure from `references/structure-models.md` (three-act fits its three disasters) and use it when the user wants to plan the whole book before drafting. For stopping partway, see `references/outlining-ladder.md`; steps 1-2 cover its premise rung and steps 8-9 its step outline and full outline rungs.

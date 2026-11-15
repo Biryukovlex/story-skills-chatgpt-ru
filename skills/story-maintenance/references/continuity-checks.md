@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Continuity and Analysis Checks
 
 The rules each check command applies, and what to run it with. `SKILL.md` says when to run each command; read the matching section here before acting on its findings. These commands report; story decisions belong to the creative skills named in each section. `docs/continuity.md` explains the same checks for users, and `docs/cli-reference.md` lists every finding code.

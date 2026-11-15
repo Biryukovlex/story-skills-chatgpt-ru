@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Try/Fail Cycles and the Five Commandments
 
 Two scene-grain structure tools for pacing the middle of chapters and giving

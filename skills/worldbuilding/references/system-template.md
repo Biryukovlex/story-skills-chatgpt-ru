@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # System Template
 
 Use this template when creating a new system file at `worldbuilding/systems/{system-name-kebab}.md`. Systems represent structured aspects of the world: magic, politics, technology, religion, economy, etc.

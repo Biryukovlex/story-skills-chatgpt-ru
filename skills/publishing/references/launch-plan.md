@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Distribution, Pricing, And Launch Plan
 
 Save the plan to `publishing/launch-plan.md`. Every choice here belongs to

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Порядок в проекте"
+  short_description: "Сверка ссылок, реестров и состояния рукописи"
+  default_prompt: "Используй $story-maintenance, чтобы помочь с задачей «проверить проект». Ответь по-русски."

@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Lie, Truth, Ghost Wound, and Arc Types
 
 The planning machinery behind character arcs: the false belief that drives

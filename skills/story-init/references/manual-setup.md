@@ -1,6 +1,8 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Manual Setup
 
-Create a story project by hand only when no Story CLI can run: `story` is not installed, and the bundled fallback that ships with the `story-maintenance` skill cannot run (Node is missing, or that skill is not installed). `story init` writes these same files, so prefer it whenever it runs. When the files are written, return to step 2 of `SKILL.md` and draft the working premise.
+Create a story project by hand with these templates when no independently installed Story CLI is available. In chat, return the relevant templates or a state table rather than requiring local files. Return to step 2 of SKILL.md when the working structure is ready.
 
 1. Create the folder structure at the current working directory:
 
@@ -200,4 +202,4 @@ Also create the v2 support files. Every registry and `continuity/state.md` needs
 - `glossary/_index.md` with frontmatter `type: glossary-registry` and `story: {story-title-kebab}`
 - `style-sheet.md` (optional) with frontmatter `type: style-sheet`, `dialect: unspecified`, and empty `preferred`, `watch-words`, and `allow-words` lists, plus the body sections described in the `voice-style` skill
 
-If manual initialization gets tedious, stop and ask the user to install or run the Story CLI rather than inventing a different project shape.
+Use these manual templates as needed; do not require CLI installation for text work.

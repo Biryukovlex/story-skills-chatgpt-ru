@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Dialogue: Subtext and Voice Differentiation
 
 Boundary note: this reference covers dialogue as a **planning and

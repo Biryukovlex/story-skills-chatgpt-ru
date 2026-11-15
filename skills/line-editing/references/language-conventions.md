@@ -1,8 +1,10 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Dialogue And Punctuation By Language
 
 Dialogue and punctuation conventions differ by language, and often by
 country and publisher within one language. Read `language` in `story.md`
-(a BCP 47 tag; a missing field means `en`), then use this file to choose
+(a BCP 47 tag; a missing field follows the Russian-language policy in SKILL.md), then use this file to choose
 the conventions with the author and record them in the style sheet's
 **Dialogue And Punctuation** section. The style sheet wins over this file:
 it records what this book does.

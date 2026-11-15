@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Scene Template
 
 Use this template when creating a machine-readable scene file at `scenes/chapter-{NN}-scene-{NN}.md`.

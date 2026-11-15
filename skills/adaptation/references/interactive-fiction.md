@@ -1,3 +1,5 @@
+> Адаптация для ChatGPT: читать и отвечать по-русски; применять [русские нормы](russian-chatgpt.md). Команды `story` требуют отдельно установленного CLI и необязательны для текстовой работы.
+
 # Interactive Fiction
 
 The story project is linear: one sequence of chapters and scenes. An
@@ -177,7 +179,7 @@ choices:
   clock still read chapter numbers, so check those, and Twine or ink state
   variables, by hand against the State table in the branch map.
 
-[`examples/the-gull-rock-light`](../../../examples/the-gull-rock-light/)
+[`examples/the-gull-rock-light`](https://github.com/danjdewhurst/story-skills/tree/33085ccc3ceb94a6ff9362cf499091123cdfb30d/examples/the-gull-rock-light/)
 is a small branch-and-bottleneck story built this way.
 The `interactive-fiction` skill covers drafting and revising such a
 project: rejoins, endings, and path continuity.
